@@ -1,0 +1,5 @@
+What can I say about this place.	[]	0.0
+The staff of the restaurant is nice and the eggplant is not bad.	[('restaurant', 'nice')]	0.0
+Apart from that, very uninspired food, lack of atmosphere and too expensive.	[('food', 'uninspired')]	0.0
+I am a staunch vegetarian and was sorely dissapointed with the veggie options on the menu.	[]	0.0
+Will be the last time I visit, I recommend others to avoid.	[]	0.0

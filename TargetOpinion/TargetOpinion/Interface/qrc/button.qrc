@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>../Images/blue_spot.png</file>
+    <file>../Images/purple_spot.png</file>
+    <file>../Images/high_blue.png</file>
+    <file>../Images/orange_spot.png</file>
+    <file>../Images/yellow_spot.png</file>
+    <file>../Images/red_spot.png</file>
+</qresource>
+</RCC>
